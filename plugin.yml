@@ -1,0 +1,11 @@
+name: Jewelry
+author: alvin0319
+main: alvin0319\Jewelry\Jewelry
+version: 1.0.0
+api: 4.0.0
+
+permissions:
+  jewelry.command.jewelryset:
+    default: op
+  jewelry.command.openui:
+    default: true
